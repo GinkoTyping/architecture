@@ -22,5 +22,5 @@
 ![](https://github.com/GinkoTyping/architecture/blob/main/images/office-building-2.jpg)
 
 ## Mountain Academy
-![](https://github.com/GinkoTyping/architecture/blob/main/images/Mountain Academy-1.png)
-![](https://github.com/GinkoTyping/architecture/blob/main/images/Mountain Academy-2.png)
+![](https://github.com/GinkoTyping/architecture/blob/main/images/Mountain-Academy-1.png)
+![](https://github.com/GinkoTyping/architecture/blob/main/images/Mountain-Academy-2.png)
