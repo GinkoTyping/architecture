@@ -11,9 +11,9 @@
 ![](https://github.com/GinkoTyping/architecture/blob/main/images/office-building.jpg)
 
 ## A checkpoint
-![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_0.jpg)
-![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_1.jpg)
-![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_2.jpg)
+![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_0.png)
+![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_1.png)
+![](https://github.com/GinkoTyping/architecture/blob/main/images/checkpoint_2.png)
 
 ## An office building
 ![](https://github.com/GinkoTyping/architecture/blob/main/images/红安_1.png)
